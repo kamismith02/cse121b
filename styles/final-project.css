@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    background-color: #ddd;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#searchInput {
+    padding: 8px;
+    font-size: 16px;
+}
+
+#superheroList {
+    list-style: none;
+    padding: 0;
+}
+
+.superhero {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    display: inline-block;
+    color: #ddd;
+    background-color: rgb(11, 167, 214);
+}
